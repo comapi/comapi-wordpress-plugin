@@ -1,7 +1,7 @@
 # Comapi Webchat Plugin for Wordpress
 This plugin quickly and easily installs the Comapi webchat widget across your Wordpress site allowing you to chat in real time to your visitors, 
 as well as allowing you to answer customers questions from other channels such as:
-Facebook Messenger
+* Facebook Messenger
 * SMS
 * Email
 * Twitter DM
@@ -17,7 +17,7 @@ License URI: [http://www.gnu.org/licenses/gpl-3.0.html](http://www.gnu.org/licen
 ## Notes
 * Admin users, or more specifically, *any user with the **manage_options** capabilities* can use this plugin's functionality.
 * You must ensure you have enabled a team for the webchat channel in the Comapi chat tool before the webchat widget will render
-* You must configure the API Space for the webchat widget to use. This can be found in the Comapi portal (https://portal.comapi.com) 
+* You must configure the API Space for the webchat widget to use. This can be found in the Comapi portal [https://portal.comapi.com](https://portal.comapi.com) 
   in the "Platform Configuration" -> "API SPace Details" menu option. In Wordpress it can be found in the settings page under "Settings" -> "Comapi Webchat Settings"
 
 ## Contact
