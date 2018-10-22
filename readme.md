@@ -10,7 +10,7 @@ Find out more or sign up for a free no obligation trial at [https://comapi.com](
 
 ## Licensing
 Requires at least Wordpress: 4.7.2
-Tested up to Wordpress: 4.9.1
+Tested up to Wordpress: 5.0.0
 License: GPLv3 or later
 License URI: [http://www.gnu.org/licenses/gpl-3.0.html](http://www.gnu.org/licenses/gpl-3.0.html)
 
